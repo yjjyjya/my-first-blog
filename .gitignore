@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+*.pyc
+*.cfg
+__pycache__
+bookstore
+Lib
+myBookStore
+db.sqlite3
+.DS_Store
+Scripts
